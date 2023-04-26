@@ -8,5 +8,9 @@ de los trabajos posteriores.
 Autor: 
 - Pablo Sayago
 
+Compilador: 
+- mingw32-gcc
+
 Fecha: 
 - 25/04/2023
+
