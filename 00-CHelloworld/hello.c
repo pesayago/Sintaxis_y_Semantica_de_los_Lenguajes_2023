@@ -17,8 +17,6 @@ void main(){
     system("pause");
 }
 
-
-
 void guardarCadena(char *texto){
     FILE *fpuntero;
     char rutaArchivo[] = "output.txt";
