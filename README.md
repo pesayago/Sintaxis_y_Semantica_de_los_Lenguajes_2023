@@ -4,5 +4,5 @@
 - Legajo: 123055-4
 - Apellido: Sayago
 - Nombre: Pablo
-- Compilador: mingw32-gcc
+
 

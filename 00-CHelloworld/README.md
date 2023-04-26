@@ -11,6 +11,10 @@ Autor:
 Compilador: 
 - mingw32-gcc
 
+Comandos utilizados para generar la salida hacia el archivo output.txt en powershell (en mi caso):
+- gcc hello.c -o HelloWorld
+- ./HelloWorld > output.txt
+
 Fecha: 
 - 25/04/2023
 
