@@ -1,4 +1,4 @@
-# Sintaxis_y_Semantica_de_los_Lenguajes
+# Sintaxis y Semantica de los Lenguajes
 - Curso: K2055
 - Año de cursada: 2023
 - Legajo: 123055-4
